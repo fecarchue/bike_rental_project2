@@ -1,0 +1,29 @@
+2.1. 로그인
+> admin admin
+
+3.1. 자전거 등록
+> b1 bikeMaker
+
+3.1. 자전거 등록
+> b2 bikeProducer
+
+2.2. 로그아웃
+> admin
+
+1.1. 회원가입
+> kim pwdpwd 01011111111
+
+2.1. 로그인
+> kim pwdpwd
+
+4.1. 자전거 대여
+> b2 bikeProducer
+
+4.1. 자전거 대여
+> b1 bikeMaker
+
+5.1. 자전거 대여 리스트
+> b1 bikeMaker
+> b2 bikeProducer
+
+6.1. 종료
