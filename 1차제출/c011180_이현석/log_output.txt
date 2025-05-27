@@ -1,0 +1,8 @@
+[fecarchue] Tue May 20 04:50:26 2025 +0900 all updated 16fc742
+[fecarchue] Tue May 20 03:30:14 2025 +0900 uml, usecase description update 137bc99
+[Lee Hyunseok] Mon May 19 04:18:50 2025 +0900 class, communication update f6eb7c3
+[Lee Hyunseok] Sun May 18 19:08:12 2025 +0900 description, requirement list update 59264e9
+[Lee Hyunseok] Sun May 18 13:07:55 2025 +0900 use case diagram update 3c7265e
+[Lee Hyunseok] Sun May 18 05:36:15 2025 +0900 requirement list 수정 983a974
+[Lee Hyunseok] Sun May 18 05:08:55 2025 +0900 기존, 수정 업로드 c982863
+[Lee Hyunseok] Sun May 18 03:30:32 2025 +0900 Initial commit 6cdb667
